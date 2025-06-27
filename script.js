@@ -50,8 +50,7 @@ const textoResultado = document.querySelector(".texto-resultado");
         alternativas: [
             {
                 texto: "Qual é em sua visão a principal festa comemorativa do México? .",
-                afirmacao: " É uma celebração única e icônica do México, realizada em 1º e 2 de novembro, para homenagear os entes queridos falecidos.
-    - As famílias criam altares elaborados com fotos, flores, velas e alimentos favoritos dos mortos.."
+                afirmacao: " É uma celebração única e icônica do México, realizada em 1º e 2 de novembro, para homenagear os entes queridos falecidos.As famílias criam altares elaborados com fotos, flores, velas e alimentos favoritos dos mortos."
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
