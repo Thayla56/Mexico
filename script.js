@@ -46,17 +46,15 @@ const textoResultado = document.querySelector(".texto-resultado");
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Qual é em sua visão a principal festa comemorativa do México?",
         alternativas: [
             {
-                texto: "Qual é em sua visão a principal festa comemorativa do México? .",
+                texto: "Dia dos Mortos (Día de los Muertos) .",
                 afirmacao: " É uma celebração única e icônica do México, realizada em 1º e 2 de novembro, para homenagear os entes queridos falecidos.As famílias criam altares elaborados com fotos, flores, velas e alimentos favoritos dos mortos."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
-            }
-        ]
+                texto: "Carnaval de Veracruz.",
+                afirmacao: "É uma festa animada e cheia de energia, realizada em fevereiro, com desfiles, música e dança."
     },
     {
         enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
