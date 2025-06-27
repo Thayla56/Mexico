@@ -28,7 +28,7 @@ const textoResultado = document.querySelector(".texto-resultado");
             },
             {
                 texto: "Pirâmide da Lua",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                afirmacao: "- Localizada no final da Avenida dos Mortos, a Pirâmide da Lua é uma estrutura impressionante que forma um complexo com a Pirâmide do Sol e outras estruturas.Com 45 metros de altura, é um exemplo da arquitetura e engenharia avançada dos povos pré-colombianos"
             }
         ]
     },
