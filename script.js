@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
         enunciado: "Qual a princípal festa religiosa do México?
-        alternativas: [
+        alternativas:[
             {
                 texto: "Nossa Senhora de Guadalupe",
                 afirmacao: "A festa inclui ritimos religiosos, comidas e bebidas, com conotações pagãs, principalmente na Basílica de Guadalupe, na Cidade do México  "
