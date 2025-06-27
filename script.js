@@ -10,8 +10,8 @@ const textoResultado = document.querySelector(".texto-resultado");
         enunciado: " Qual a principal festa do México?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Dia da Nossa Senhora de Guadalupe!",
+                afirmacao: "A festa incluiu ritus religiosos, comidas e bebidas com conotações,especialmente na Basílica de Guadalupe, na Cidade do México. "
             },
             {
                 texto: "Isso é maravilhoso!",
