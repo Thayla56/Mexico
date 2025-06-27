@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual a princípal festa religiosa do México?"
+        enunciado: "Qual a princípal festa religiosa do México?
         alternativas:[
             {
                 texto: "Nossa Senhora de Guadalupe",
