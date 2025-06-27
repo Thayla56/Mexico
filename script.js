@@ -4,13 +4,14 @@ const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
-const perguntas = [
+
+        const perguntas = [
     {
-        enunciado: "Qual a princípal festa religiosa do México?"
-        alternativas:[
+        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        alternativas: [
             {
-                texto: "Nossa Senhora de Guadalupe",
-                afirmacao: "A festa inclui ritimos religiosos, comidas e bebidas, com conotações pagãs, principalmente na Basílica de Guadalupe, na Cidade do México  "
+                texto: "Isso é assustador!",
+                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
                 texto: "Isso é maravilhoso!",
