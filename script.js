@@ -33,15 +33,15 @@ const textoResultado = document.querySelector(".texto-resultado");
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Para você o que é o mais importante?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "A Importância Cultural e Histórica",
+                afirmacao: "A obra de Frida Kahlo é importante para a arte mexicana porque reflete a identidade cultural e histórica do México, incorporando elementos da arte popular e da mitologia pré-hispânica."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Inovação Artística e Expressão Pessoal",
+                afirmacao: "A obra de Frida Kahlo é importante para a arte mexicana porque inova e experimenta com diferentes estilos e técnicas, misturando elementos do surrealismo, do realismo e da arte popular."
             }
         ]
     },
