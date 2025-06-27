@@ -55,7 +55,7 @@ const textoResultado = document.querySelector(".texto-resultado");
             {
                 texto: "Carnaval de Veracruz.",
                 afirmacao: "É uma festa animada e cheia de energia, realizada em fevereiro, com desfiles, música e dança."
-            ]
+        ]
             },
     {
         enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
