@@ -14,8 +14,8 @@ const textoResultado = document.querySelector(".texto-resultado");
                 afirmacao: "A festa incluiu ritus religiosos, comidas e bebidas com conotações,especialmente na Basílica de Guadalupe, na Cidade do México. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Dia da Assunção da Virgem Maria!",
+                afirmacao: "Em algumas regiões, a celebrações podem durar até duas semanas. "
             }
         ]
     },
