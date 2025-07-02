@@ -63,11 +63,11 @@ const textoResultado = document.querySelector(".texto-resultado");
         alternativas: [
             {
                 texto: "Tacos",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "Tortilha de milho ou de trigo rechedas com uma variedade de ingredientes."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: " Sopes",
+                afirmacao: "Pequenas tortilhas de milho cobertas com feijão, queijo e carne"
             }
         ]
     },
